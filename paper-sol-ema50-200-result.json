@@ -14,8 +14,8 @@
   "drawdown_minute_close": 0.301151184378873,
   "minimum_realized_balance": 5.949462349795524,
   "minimum_equity_at_minute_close": 5.904005773545523,
-  "calendar_weeks": 0.9711309523809524,
-  "net_per_week": 0.393863049940368,
+  "calendar_weeks": 0.9908730158730159,
+  "net_per_week": 0.3860157584968224,
   "trade_ledger": [
     {
       "start_ms": 1791691380000,
@@ -67,21 +67,21 @@
     "entry": 103.74074399999999,
     "qty": 0.1,
     "fee": 0.0015561111599999998,
-    "funding": -0.0003599899594000001,
+    "funding": -0.00041761002200000014,
     "start": 1792166400000,
     "margin": 1.03740744,
     "notional": 10.3740744
   },
   "pending_limit": null,
-  "open_position_pnl_if_closed_now": -0.13214325458059992,
-  "equity_if_closed_now": 6.430349344215656,
-  "total_net_if_closed_now": 0.2503493442156559,
+  "open_position_pnl_if_closed_now": -0.028977456707999515,
+  "equity_if_closed_now": 6.533515142088256,
+  "total_net_if_closed_now": 0.3535151420882565,
   "paper_only": true,
   "strategy_version": "sol1h-ema50-200-fixed11-v1",
   "entry_filter": "close and EMA50 both on the side of EMA200 matching the trade",
   "target_position_notional": 11,
   "leverage_assumption": 10,
-  "updated_utc": "2026-10-17T10:57:13.845000+00:00",
+  "updated_utc": "2026-10-17T14:16:25.186000+00:00",
   "started_utc": "2026-10-10T15:48:00+00:00",
   "limitations": "Limit fills inferred from1m trade-through, not actual queue. Fee assumptions not account-specific. No liquidation reconstruction. No orders or wallet access. No real-money profitability claim."
 }
