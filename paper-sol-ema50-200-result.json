@@ -14,8 +14,8 @@
   "drawdown_minute_close": 0.5517143710121033,
   "minimum_realized_balance": 5.949462349795524,
   "minimum_equity_at_minute_close": 5.904005773545523,
-  "calendar_weeks": 1.3458333333333334,
-  "net_per_week": -0.03158089806519914,
+  "calendar_weeks": 1.3805555555555555,
+  "net_per_week": -0.030786609884484877,
   "trade_ledger": [
     {
       "start_ms": 1791691380000,
@@ -105,7 +105,7 @@
   "entry_filter": "close and EMA50 both on the side of EMA200 matching the trade",
   "target_position_notional": 11,
   "leverage_assumption": 10,
-  "updated_utc": "2026-10-20T01:54:54.452000+00:00",
+  "updated_utc": "2026-10-20T07:44:26.219000+00:00",
   "started_utc": "2026-10-10T15:48:00+00:00",
   "limitations": "Limit fills inferred from1m trade-through, not actual queue. Fee assumptions not account-specific. No liquidation reconstruction. No orders or wallet access. No real-money profitability claim."
 }
