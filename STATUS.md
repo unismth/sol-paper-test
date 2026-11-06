@@ -4,14 +4,14 @@
 
 | Informacja | Wynik |
 |---|---:|
-| Aktualizacja UTC | 2026-11-05T22:06:45.116000+00:00 |
+| Aktualizacja UTC | 2026-11-06T02:34:26.116000+00:00 |
 | Poczatek testu UTC | 2026-10-10T15:48:00+00:00 |
-| Dni zbierania nowych danych | 26.26 |
+| Dni zbierania nowych danych | 26.45 |
 | Wirtualne saldo poczatkowe | 6.18 USD |
 | Saldo zrealizowane | 5.8664 USD |
 | Zysk/strata zamknietych transakcji | -0.3136 USD |
-| Wycena po szacowanym zamknieciu pozycji | 5.8763 USD |
-| Zysk/strata z otwarta pozycja i kosztami | -0.3037 USD |
+| Wycena po szacowanym zamknieciu pozycji | 5.8662 USD |
+| Zysk/strata z otwarta pozycja i kosztami | -0.3138 USD |
 | Zamkniete transakcje | 14 |
 | Otwarta pozycja symulowana | tak |
 | Oczekujacy limit | nie |
