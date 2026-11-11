@@ -4,9 +4,9 @@
 
 | Informacja | Wynik |
 |---|---:|
-| Aktualizacja UTC | 2026-11-11T15:25:50.453000+00:00 |
+| Aktualizacja UTC | 2026-11-11T22:49:22.269000+00:00 |
 | Poczatek testu UTC | 2026-10-10T15:48:00+00:00 |
-| Dni zbierania nowych danych | 31.98 |
+| Dni zbierania nowych danych | 32.29 |
 | Wirtualne saldo poczatkowe | 6.18 USD |
 | Saldo zrealizowane | 5.6352 USD |
 | Zysk/strata zamknietych transakcji | -0.5448 USD |
