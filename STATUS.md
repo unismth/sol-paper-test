@@ -4,16 +4,16 @@
 
 | Informacja | Wynik |
 |---|---:|
-| Aktualizacja UTC | 2026-11-13T01:57:07.428000+00:00 |
+| Aktualizacja UTC | 2026-11-13T09:43:52.267000+00:00 |
 | Poczatek testu UTC | 2026-10-10T15:48:00+00:00 |
-| Dni zbierania nowych danych | 33.42 |
+| Dni zbierania nowych danych | 33.75 |
 | Wirtualne saldo poczatkowe | 6.18 USD |
-| Saldo zrealizowane | 5.6352 USD |
-| Zysk/strata zamknietych transakcji | -0.5448 USD |
-| Wycena po szacowanym zamknieciu pozycji | 5.6402 USD |
-| Zysk/strata z otwarta pozycja i kosztami | -0.5398 USD |
-| Zamkniete transakcje | 18 |
-| Otwarta pozycja symulowana | tak |
+| Saldo zrealizowane | 5.8136 USD |
+| Zysk/strata zamknietych transakcji | -0.3664 USD |
+| Wycena po szacowanym zamknieciu pozycji | 5.8136 USD |
+| Zysk/strata z otwarta pozycja i kosztami | -0.3664 USD |
+| Zamkniete transakcje | 20 |
+| Otwarta pozycja symulowana | nie |
 | Oczekujacy limit | nie |
 
 Filtr EMA50/200, nominał docelowy 11 USD zaokraglany w dol, symulowane 10x.
