@@ -4,8 +4,8 @@
   "balance": 6.818505840935984,
   "net": 0.6385058409359843,
   "trades": 24,
-  "signals": 30,
-  "unfilled_or_nonpassive": 6,
+  "signals": 31,
+  "unfilled_or_nonpassive": 7,
   "insufficient_cash": 0,
   "below_minimum_after_rounding": 0,
   "fees": 0.15181629397337373,
@@ -14,8 +14,8 @@
   "drawdown_minute_close": 1.1967608078009775,
   "minimum_realized_balance": 5.571074638596689,
   "minimum_equity_at_minute_close": 5.492450937898378,
-  "calendar_weeks": 5.7005952380952385,
-  "net_per_week": 0.11200687196120429,
+  "calendar_weeks": 5.752876984126984,
+  "net_per_week": 0.11098896129670664,
   "trade_ledger": [
     {
       "start_ms": 1791691380000,
@@ -292,7 +292,7 @@
   "entry_filter": "close and EMA50 both on the side of EMA200 matching the trade",
   "target_position_notional": 11,
   "leverage_assumption": 10,
-  "updated_utc": "2026-11-19T13:30:58.546000+00:00",
+  "updated_utc": "2026-11-19T22:17:32.355000+00:00",
   "started_utc": "2026-10-10T15:48:00+00:00",
   "limitations": "Limit fills inferred from1m trade-through, not actual queue. Fee assumptions not account-specific. No liquidation reconstruction. No orders or wallet access. No real-money profitability claim."
 }
